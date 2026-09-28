@@ -1,5 +1,7 @@
 # 知华现金流预测 AI
 
+[简体中文](README.md) | [English](README.en.md)
+
 ## 企业级流动性压力治理
 
 新增 13 周现金流压力情景、最低现金线、融资契约和预测审批控制，详见 [流动性压力治理](docs/ENTERPRISE_LIQUIDITY_STRESS.md)。
